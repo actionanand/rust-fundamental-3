@@ -7,6 +7,10 @@ This is a basic project to learn about `rust` language
   1. `rustup` - a tool for managing different versions of rust
   2. `rustc`  - a tool for compiling rust code
   3. `cargo`  - a tool for managing rust packages and projects
+  4. `rustc --version` - to check `rust` version
+  
+  - This app was built using version `1.57.0`
+  - To make this project work, You should have [rust](https://www.rust-lang.org/learn/get-started) installed globally in your machine.
 
 ## How to create a new rust project?
 
